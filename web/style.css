@@ -41,3 +41,11 @@ button:disabled:hover{
     color: rgb(250, 204, 145);
     cursor: default;
 }
+
+input{
+    height: 30px;
+    border-radius: 10px;
+    width: 300px;
+    font-weight: 700;
+    font-size: 1rem;
+}
